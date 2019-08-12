@@ -43,7 +43,7 @@
        x2="83.165726"
        y2="292.88205"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.69536844,0,0,0.69536844,2.273707,80.199014)" />
+       gradientTransform="matrix(0.81688129,0,0,0.81688129,-3.2239193,48.208843)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -53,7 +53,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="99.107733"
+     inkscape:cx="-84.234955"
      inkscape:cy="104.23877"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,14 +83,14 @@
      transform="translate(0,-229.53123)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:50.35278702px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1.28124428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="6.0010033"
-       y="281.61929"
+       style="font-style:normal;font-weight:normal;font-size:59.15173721px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1.50513661;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1.1547072"
+       y="284.82654"
        id="text28"><tspan
          sodipodi:role="line"
          id="tspan26"
-         x="6.0010033"
-         y="281.61929"
-         style="font-weight:bold;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1.28124428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">W</tspan></text>
+         x="1.1547072"
+         y="284.82654"
+         style="font-weight:bold;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1.50513661;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">W</tspan></text>
   </g>
 </svg>

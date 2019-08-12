@@ -25,7 +25,7 @@
          style="stop-color:#279094;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.69536844,0,0,0.69536844,2.273707,80.199014)"
+       gradientTransform="matrix(0.81688129,0,0,0.81688129,-3.2239193,48.208843)"
        gradientUnits="userSpaceOnUse"
        y2="292.88205"
        x2="83.165726"
@@ -51,13 +51,13 @@
      id="layer1">
     <text
        id="text28"
-       y="281.61929"
-       x="6.0010033"
-       style="font-style:normal;font-weight:normal;font-size:50.35278702px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1.28124428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="284.82654"
+       x="1.1547072"
+       style="font-style:normal;font-weight:normal;font-size:59.15173721px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1.50513661;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-weight:bold;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1.28124428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="281.61929"
-         x="6.0010033"
+         style="font-weight:bold;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1.50513661;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="284.82654"
+         x="1.1547072"
          id="tspan26">W</tspan></text>
   </g>
 </svg>
